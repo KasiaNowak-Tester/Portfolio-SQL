@@ -2,9 +2,9 @@
 # SQL Quality Assurance & Data Verification Sandbox
 
 ## 📌 Project Overview
-This repository contains a comprehensive collection of relational database queries and data aggregation scripts designed for **Data Quality Assurance (Data QA)**, reporting verification, and backend testing. The scripts simulate real-world QA scenarios where data integrity, structural validation, and migration correctness need to be verified against business requirements.
+This repository is a practical showcase of relational database queries and data aggregation scripts tailored for **Data Quality Assurance (Data QA)** and backend verification. 
 
-The queries are structured to demonstrate clean coding standards, precise filtering, and relational database management logic using systems like **Microsoft SQL Server (MS SSMS)** and **MySQL**.
+It simulates QA workflows where a tester must independently verify data integrity, test reporting logic, and validate backend states against business requirements using **SQL (MS SSMS / MySQL)**.
 
 ---
 
